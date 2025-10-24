@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Yosano's Doctrine",
+        "era": "Ancient era",
+        "priorities": {
+            "Neutral": 10,
+            "Cultural": 10,
+            "Diplomatic": 5,
+            "Domination": 5,
+            "Scientific": 5
+        },
+        "uniques": [
+            "Gain a free [Bunka Gakuin] [in capital]",
+            "Gain a free [Imperial Steel Works] [in capital]",
+            "Only available <for [Yosano Akiko Nation] Civilizations>"
+        ],
+        "policies": [
+            {
+                "name": "Tangled Hair",
+                "uniques": [
+                    "[-90]% Culture cost of natural border growth [in all cities]",
+                    "[+3 Happiness, +1 Culture] [in all cities]",
+                    "[+1 Culture] per [2] population [in all cities]"
+                ],
+                "row": 1,
+                "column": 3
+            },
+            {
+                "name": "Biological Server",
+                "requires": ["Tangled Hair"],
+                "uniques": [
+                    "[+1 Food, +1 Production, +1 Science, +1 Culture, +1 Happiness] per [10] population [in all cities] <upon discovering [Future Tech] technology>",
+                    "[+1 Production] [in all cities] <with [1] to [3] neighboring [Biological server] tiles>",
+                    "[+2 Production] [in all cities] <with [4] to [6] neighboring [Biological server] tiles>"
+                ],
+                "row": 2,
+                "column": 1
+            },
+            {
+                "name": "Sending Cash By Letter Packs",
+                "requires": ["Tangled Hair"],
+                "uniques": [
+                    "[+900]% Gold from Great Merchant trade missions",
+                    "Gifts of Gold to City-States generate [+900]% more Influence",
+                    "May buy [Great Merchant] units for [100] [Culture] [in all cities]",
+                    "All newly-trained [Great Merchant] units [in all cities] receive the [Many Letter Packs] promotion"
+                ],
+                "row": 2,
+                "column": 3
+            },
+            {
+                "name": "Woman's Complete Independence",
+                "requires": ["Tangled Hair"],
+                "requires": ["Planned Economy"],
+                "uniques": [
+                    "[-90]% Unhappiness from [Population] [in all cities]",
+                    "[+100]% growth [in all cities]"
+                ],
+                "row": 2,
+                "column": 5
+            },
+            {
+                "name": "Fight Bravely",
+                "requires": ["Biological Server", "Sending Cash By Letter Packs", "Woman's Complete Independence"],
+                "uniques": [
+                    "[+50]% Strength <when defending>",
+                    "[50] HP when healing",
+                    "Heals [50] damage if it kills a unit"
+                ],
+                "row": 3,
+                "column": 3
+            },
+            {
+                "name": "Yosano's Doctrine Complete",
+                "uniques": [
+                    "[+2 Food, +2 Production, +2 Science, +2 Gold, +2 Culture] [in all cities]",
+                    "May buy [Great Engineer] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
+                ]
+            }
+        ]
+    }
+]
