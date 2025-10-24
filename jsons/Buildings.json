@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Yosano Akiko's Birthplace",
+        "uniqueTo": "Yosano Akiko Nation",
+        "replaces": "Palace",
+		"isNationalWonder": true,
+		"production": 3,
+		"science": 3,
+		"gold": 3,
+		"culture": 5,
+		"cityStrength": 5,
+		"cost": 0,
+		"uniques": [
+            "Indicates the capital city",
+            "[+50]% Great Person generation [in this city]"
+        ]
+    },
+    {
+        "name": "Imperial Steel Works",
+        "uniqueTo": "Yosano Akiko Nation",
+        "isNationalWonder": true,
+        "specialistSlots": {"Engineer": 5},
+        "greatPersonPoints": {"Great Engineer": 5},
+        "uniques": [
+            "Unbuildable",
+            "[+50]% [Production] [in all cities]",
+            "[+100]% Yield from every [Production]",
+            "[+2 Production] from every [specialist]"
+        ]
+    },
+    {
+        "name": "Bunka Gakuin",
+        "uniqueTo": "Yosano Akiko Nation",
+        "isNationalWonder": true,
+        "specialistSlots": {"Artist": 5},
+        "greatPersonPoints": {"Great Artist": 5},
+        "uniques": [
+            "Unbuildable",
+            "[+50]% [Culture] [in all cities]",
+            "[+100]% Yield from every [Culture]",
+            "[+50]% Great Person generation [in all cities]"
+        ]
+    }
+]

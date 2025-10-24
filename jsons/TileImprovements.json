@@ -1,0 +1,17 @@
+[
+    {
+		"name": "Biological server",
+		"uniqueTo": "Yosano Akiko Nation",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"Production": 1,
+        "Science": 1,
+		"turnsToBuild": 4,
+		"uniques": [
+            "Must be next to [City center]",
+            "[+1 Production, +1 Science] for each adjacent [Biological server]",
+            "[+1 Production, +1 Science] for each adjacent [Biological server] <after discovering [Computers]>",
+            "Pillaging this improvement yields approximately [+18 Gold]"
+        ],
+		"techRequired": "Construction"
+	}
+]
