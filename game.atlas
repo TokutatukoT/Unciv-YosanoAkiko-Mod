@@ -1,0 +1,62 @@
+
+game.png
+size: 1024, 512
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+ImprovementIcons/Biological server
+  rotate: false
+  xy: 576, 376
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+LeaderIcons/Yosano Akiko
+  rotate: false
+  xy: 312, 248
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+NationIcons/Yosano Akiko Nation
+  rotate: false
+  xy: 4, 204
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+PolicyIcons/PolicyIcons/Biological Server
+  rotate: false
+  xy: 4, 68
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+PolicyIcons/PolicyIcons/Sending Cash By Letter Packs
+  rotate: false
+  xy: 140, 68
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+PolicyIcons/PolicyIcons/Tangled Hair
+  rotate: false
+  xy: 712, 376
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Biological server
+  rotate: false
+  xy: 4, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Biological serverH
+  rotate: false
+  xy: 576, 312
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
