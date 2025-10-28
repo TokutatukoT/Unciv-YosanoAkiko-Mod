@@ -51,7 +51,6 @@
             {
                 "name": "Woman's Complete Independence",
                 "requires": ["Tangled Hair"],
-                "requires": ["Planned Economy"],
                 "uniques": [
                     "[-90]% Unhappiness from [Population] [in all cities]",
                     "[+100]% growth [in all cities]"
