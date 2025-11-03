@@ -18,7 +18,7 @@
             {
                 "name": "Tangled Hair",
                 "uniques": [
-                    "[-90]% Culture cost of natural border growth [in all cities]",
+                    "[-95]% Culture cost of natural border growth [in all cities]",
                     "[+3 Happiness, +1 Culture] [in all cities]",
                     "[+1 Culture] per [2] population [in all cities]"
                 ],
@@ -29,7 +29,7 @@
                 "name": "Biological Server",
                 "requires": ["Tangled Hair"],
                 "uniques": [
-                    "[+1 Food, +1 Production, +1 Science, +1 Culture, +1 Gold, +1 Happiness] per [10] population [in all cities connected to capital] <for every [Completed Policy branches]>",
+                    "[+1 Food, +1 Production, +1 Science, +1 Culture, +1 Happiness] per [10] population [in all cities] <upon discovering [Future Tech] technology>",
                     "[+1 Production] [in all cities] <with [1] to [3] neighboring [Biological server] tiles>",
                     "[+2 Production] [in all cities] <with [4] to [6] neighboring [Biological server] tiles>"
                 ],
@@ -72,8 +72,8 @@
             {
                 "name": "Yosano's Doctrine Complete",
                 "uniques": [
-                    "[+2 Food, +2 Production, +2 Science, +2 Gold, +2 Culture] [in all cities]",
-                    "May buy [Great Engineer] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
+                    "[+25]% Yield from every [Terrain]", "[+3]% Yield from every [Terrain] <for every [Owned [Terrain] Tiles]>",
+                    "[1] Unit Supply per [1] population [in all cities]"
                 ]
             }
         ]
