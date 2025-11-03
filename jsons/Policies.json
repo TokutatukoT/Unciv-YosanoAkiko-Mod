@@ -18,7 +18,7 @@
             {
                 "name": "Tangled Hair",
                 "uniques": [
-                    "[-90]% Culture cost of natural border growth [in all cities]",
+                    "[-95]% Culture cost of natural border growth [in all cities]",
                     "[+3 Happiness, +1 Culture] [in all cities]",
                     "[+1 Culture] per [2] population [in all cities]"
                 ],
@@ -51,7 +51,6 @@
             {
                 "name": "Woman's Complete Independence",
                 "requires": ["Tangled Hair"],
-                "requires": ["Planned Economy"],
                 "uniques": [
                     "[-90]% Unhappiness from [Population] [in all cities]",
                     "[+100]% growth [in all cities]"
@@ -73,8 +72,8 @@
             {
                 "name": "Yosano's Doctrine Complete",
                 "uniques": [
-                    "[+2 Food, +2 Production, +2 Science, +2 Gold, +2 Culture] [in all cities]",
-                    "May buy [Great Engineer] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
+                    "[+25]% Yield from every [Terrain]", "[+3]% Yield from every [Terrain] <for every [Owned [Terrain] Tiles]>",
+                    "[1] Unit Supply per [1] population [in all cities]"
                 ]
             }
         ]
