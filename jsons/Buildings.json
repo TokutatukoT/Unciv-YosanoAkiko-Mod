@@ -23,9 +23,9 @@
         "greatPersonPoints": {"Great Engineer": 5},
         "uniques": [
             "Unbuildable",
-            "[+50]% [Production] [in all cities]",
-            "[+100]% Yield from every [Production]",
-            "[+3 Production] from every specialist [in all cities]"
+            "[+25]% [Production] [in all cities]",
+            "[+25]% Yield from every [Mine]",
+            "[+2 Production] from every specialist [in all cities]"
         ]
     },
     {
@@ -37,7 +37,7 @@
         "uniques": [
             "Unbuildable",
             "[+50]% [Culture] [in all cities]",
-            "[+100]% Yield from every [Culture]",
+            "Gain [100] Influence with a [Great Person] gift to a City-State",
             "[+50]% Great Person generation [in all cities]"
         ]
     }
