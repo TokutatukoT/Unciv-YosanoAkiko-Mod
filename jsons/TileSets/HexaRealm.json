@@ -1,0 +1,11 @@
+{
+    "useColorAsBaseTerrain": "false",
+    "fallbackTileSet": "FantasyHex",
+    "ruleVariants": {
+      "Grassland+Hill+Biological server": ["Grassland+Hill","Biological serverH"],
+      "Plains+Hill+Biological server": ["Plains+Hill","Biological serverH"],
+      "Desert+Hill+Biological server": ["Desert+Hill","Biological serverH"],
+      "Tundra+Hill+Biological server": ["Tundra+Hill","Biological serverH"],
+      "Snow+Hill+Biological server": ["Snow+Hill","Biological serverH"]
+    }
+}
